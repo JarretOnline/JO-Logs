@@ -1,0 +1,56 @@
+{
+    "locals": "en",
+
+    "allLogs": true,
+    "postals": true,
+    "weaponLog": true,
+    "inlineField": true,
+
+    "playerId": true,
+    "steamId": true,
+    "steamUrl": true,
+    "discordId": true,
+    "license": false,
+    "license2": false,
+    "ip": false,
+    "playerPing": true,
+
+    "Session": true,
+    "PlayTime": true,
+    "playerHealth": true,
+    "playerArmor": true,
+    "timestamp": true,
+
+    "forceSteam": false,
+
+    "nameChangePerms": "jd.staff",
+    "logHistoryPerms": "jd.staff",
+    "screenshotPerms": "jd.staff",
+
+    "DiscordUpdateNotify": true,
+
+    "userName": "SERVER ACTIVITY",
+    "avatar": "https://cdn.discordapp.com/attachments/973819662871699487/1041554339258441789/5cbea638934c3a0181790c16a7832179.png",
+    "communityName": "PURGATORY",
+    "communityLogo": "https://cdn.discordapp.com/attachments/973819662871699487/1041554339258441789/5cbea638934c3a0181790c16a7832179.png",
+    "footerText": "https://linktr.ee/PurgatoryRP",
+    "footerIcon": "https://cdn.discordapp.com/attachments/973819662871699487/1041554339258441789/5cbea638934c3a0181790c16a7832179.png",
+
+    "GlobalBanBypass": [],
+
+    "WeaponsNotLogged": [
+        "WEAPON_SNOWBALL",
+        "WEAPON_FIREEXTINGUISHER",
+        "WEAPON_PETROLCAN",
+    ],
+
+    "Commands": {
+        "logs": ["logs", "lh"],
+        "screenshot": ["screenshot", "ss"]
+    },
+
+    "useESX": false,
+    "esxName": false,
+    "esxJob": false,
+    "esxMoney": false
+}
